@@ -1,0 +1,15 @@
+[theme]
+# Maps to --accent-one: #ea4335
+primaryColor="#ea4335"
+
+# Maps to --white-color: #ffffff
+backgroundColor="#ffffff"
+
+# Maps to --10-grey-color: #f2f2f2
+secondaryBackgroundColor="#f2f2f2"
+
+# Maps to --90-grey-color: #1a1a1a
+textColor="#1a1a1a"
+
+# Sets a default font family as a fallback
+font="sans serif"
